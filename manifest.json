@@ -1,0 +1,17 @@
+{
+  "short_name": "Stock Advisor",
+  "name": "AI Stock Advisor",
+  "description": "An AI-powered assistant to help users make informed stock trading decisions.",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000"
+}
